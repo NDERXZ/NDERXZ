@@ -41,8 +41,7 @@
 <!-- Who am i? -->
 <img src="assets/images/ambatuhost-logo.png" width="280" align="left" style="margin-right: 20px;">
 <div align="center">
-
-**Who Am I?**
+  <img src="assets/images/who%20am%20i.png" width="280" alt="Who Am I">
 </div>
 
 <div align="justify">
@@ -60,7 +59,8 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 
 <!-- badges / socials -->
 <div align="center">
-  <strong>Connect with Me</strong>
+  <img src="assets/images/connect%20with%20me.png" width="340" alt="Connect with Me">
+  </br>
   </br>
 
   <!-- Portfolio -->
@@ -108,7 +108,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 
 <!-- My contributions title -->
 <div align="center">
-<img src="./assets/images/Contributions.svg" width="50%">
+<img src="assets/images/my%20contributions.png" width="380" alt="My Contributions">
 </br>
 </br>
 </div>
@@ -123,7 +123,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
   <tr>
     <!-- Skills Left -->
     <td valign="top" width="45%">
-      <img src="./assets/images/Stack.svg">
+      <img src="assets/images/my%20tech%20stack.png" width="320" alt="My Tech Stack">
       </br>
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" /><br>
