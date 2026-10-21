@@ -91,9 +91,18 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 </div>
 </br>
 
-> [!NOTE]
+> [!IMPORTANT]
 >
-> *"I am the bone of my sword, steel is my body and fire is my blood, I have no regrets, this is the only path, now whole worlds, was an Unlimited Blade Work"*
+> *"i am the bone of my sword,<br>
+> steel is my body and fire is my blood,<br>
+> i have no regrets,<br>
+> this is the only path,<br>
+> now whole worlds,<br>
+> was an unlimited blade work"*
+>
+> Code is never finished, it only gets **better**.
+>
+> What you see here is forged with **passion**, **curiosity**, and **persistence**.
 
 </br>
 
