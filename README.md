@@ -115,7 +115,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 
 <div align="center">
   <a href="https://github.com/NDERXZ">
-    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=NDERXZ&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=9142ff&bg_color=transparent&radius=16&area_color=9142ff&area=true&point=ffffff&line=9142ff&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true" alt="Activity Graph" width="100%" />
+    <img src="https://github-readme-activity-graph-two.vercel.app/graph?username=NDERXZ&custom_title=%20&hide_border=false&theme=high-contrast&border_color=9142ff&bg_color=transparent&radius=16&area_color=9142ff&area=true&point=ffffff&line=9142ff&days=10&text_color=ffffff&title_color=00000000&include_all_commits=true&count_private=true" alt="Activity Graph" width="100%" />
   </a>
 </div>
 
