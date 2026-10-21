@@ -128,8 +128,11 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
       <a href="https://github.com/NDERXZ/Ender-Verstappen" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=NDERXZ&repo=Ender-Verstappen&theme=dark&bg_color=9142ff&title_color=ffffff&text_color=ffffff&hide_border=true&description_lines_count=4&icon_color=ffffff" />
       </a>
-
-      [![GitHub Streak](https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=9142ff&fire=9142ff&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9142ff&sideLabels=9142ff&dates=FFFFFF)](https://git.io/streak-stats)
+      <br/>
+      <br/>
+      <a href="https://git.io/streak-stats" target="_blank">
+        <img src="https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=9142ff&fire=9142ff&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9142ff&sideLabels=9142ff&dates=FFFFFF" alt="GitHub Streak" />
+      </a>
     </td>
   </tr>
 </table>
