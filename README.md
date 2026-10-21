@@ -39,7 +39,7 @@
 </br>
 
 <!-- Who am i? -->
-<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width="390" align="left">
+<img src="assets/images/ambatuhost-logo.png" width="280" align="left" style="margin-right: 20px;">
 <div align="center">
 
 **Who Am I?**
