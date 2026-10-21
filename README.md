@@ -1,38 +1,38 @@
 <!--
-    Theme: Persona 5 (Phantom Thieves)
+    Theme: Purple Persona (#9142ff)
     Customized for: Chaidar (NDERXZ / ENDERTURU)
     Original template credit: https://github.com/Glauedson
 -->
 
 <!-- Banner  -->
 <a href="https://github.com/NDERXZ">
-  <img src="assets/images/Banner Persona.svg" alt="Banner" style="width:100%; height:auto"/>
+  <img src="assets/images/banner.png" alt="Banner" style="width:100%; height:auto"/>
 </a>
 
 <div align="center">
 
   <a href="https://github.com/NDERXZ">
     <img width="160px" 
-         src="https://komarev.com/ghpvc/?username=NDERXZ&label=Profile%20Views&color=000000&labelColor=FF1001&style=for-the-badge" 
+         src="https://komarev.com/ghpvc/?username=NDERXZ&label=Profile%20Views&color=9142ff&style=for-the-badge" 
          alt="Profile Views" /> 
   </a>
   <a href="https://github.com/NDERXZ/Ender-Verstappen">
     <img width="120px" 
         alt="Stars" 
         title="Stars Repository" 
-        src="https://img.shields.io/github/stars/NDERXZ/Ender-Verstappen?color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&logo=star" /> 
+        src="https://img.shields.io/github/stars/NDERXZ/Ender-Verstappen?color=000000&labelColor=9142ff&logoColor=ffffff&label=Stars&style=for-the-badge&logo=star" /> 
   </a>
   <a href="https://github.com/NDERXZ/Ender-Verstappen/network/members">
     <img width="115px" 
         alt="Forks" 
         title="Forks Repository" 
-        src="https://img.shields.io/github/forks/NDERXZ/Ender-Verstappen?color=000000&labelColor=FF1001&logoColor=ffffff&label=Forks&style=for-the-badge&logo=fork" /> 
+        src="https://img.shields.io/github/forks/NDERXZ/Ender-Verstappen?color=000000&labelColor=9142ff&logoColor=ffffff&label=Forks&style=for-the-badge&logo=fork" /> 
   </a>
   <a href="https://github.com/NDERXZ?tab=followers">
     <img width="145px" 
         alt="Followers" 
         title="Github Followers" 
-        src="https://img.shields.io/github/followers/NDERXZ?color=000000&labelColor=FF1001&style=for-the-badge&logo=github&label=Followers&logoColor=ffffff" />
+        src="https://img.shields.io/github/followers/NDERXZ?color=000000&labelColor=9142ff&style=for-the-badge&logo=github&label=Followers&logoColor=ffffff" />
   </a>
 </div>
 
@@ -65,25 +65,25 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 
   <!-- Portfolio -->
   <a href="https://portofolio-chaidar.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF1001?style=for-the-badge&logo=vercel&logoColor=white" 
+    <img src="https://img.shields.io/badge/Portfolio-9142ff?style=for-the-badge&logo=vercel&logoColor=white" 
           alt="Portfolio"
           title="My Portfolio"/>
   </a>
   <!-- GMail  -->
   <a href="mailto:chaidar.skz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-FF1001?style=for-the-badge&logo=gmail&logoColor=white" 
+    <img src="https://img.shields.io/badge/Gmail-9142ff?style=for-the-badge&logo=gmail&logoColor=white" 
           alt="E-mail"
           title="My E-mail"/>
   </a>
   <!-- Discord -->
   <a href="https://discordapp.com/users/enderturu" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-enderturu-FF1001?style=for-the-badge&logo=discord&logoColor=white" 
+    <img src="https://img.shields.io/badge/Discord-enderturu-9142ff?style=for-the-badge&logo=discord&logoColor=white" 
           alt="Discord"
           title="My Discord"/>
   </a>
   <!-- WhatsApp -->
   <a href="https://wa.me/62895327468806" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-0895327468806-FF1001?style=for-the-badge&logo=whatsapp&logoColor=white" 
+    <img src="https://img.shields.io/badge/WhatsApp-0895327468806-9142ff?style=for-the-badge&logo=whatsapp&logoColor=white" 
           alt="WhatsApp"
           title="My WhatsApp"/>
   </a>
@@ -110,7 +110,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 </br>
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NDERXZ&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/NDERXZ)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NDERXZ&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=9142ff&bg_color=transparent&radius=16&area_color=9142ff&area=true&point=ffffff&line=9142ff&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/NDERXZ)
 
 <table align="center">
   <tr>
@@ -126,10 +126,10 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
     <!-- Highlight Project & Streak Right -->
     <td valign="top" width="55%">
       <a href="https://github.com/NDERXZ/Ender-Verstappen" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NDERXZ&repo=Ender-Verstappen&theme=dark&bg_color=FF1001&title_color=ffffff&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NDERXZ&repo=Ender-Verstappen&theme=dark&bg_color=9142ff&title_color=ffffff&text_color=ffffff&hide_border=true&description_lines_count=4&icon_color=ffffff" />
       </a>
 
-      [![GitHub Streak](https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+      [![GitHub Streak](https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=9142ff&fire=9142ff&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9142ff&sideLabels=9142ff&dates=FFFFFF)](https://git.io/streak-stats)
     </td>
   </tr>
 </table>
