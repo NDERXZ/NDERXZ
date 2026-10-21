@@ -92,9 +92,8 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 </br>
 
 > [!NOTE]
-> *"I am the bone of my sword. Steel is my body and fire is my blood."*
 >
-> Code is never finished, it only gets **better**. Forged with **passion**, **curiosity**, and **persistence**.
+> *"I am the bone of my sword, steel is my body and fire is my blood, I have no regrets, this is the only path, now whole worlds, was an Unlimited Blade Work"*
 
 </br>
 
