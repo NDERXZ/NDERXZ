@@ -1,16 +1,135 @@
-## Hi there 👋
-
 <!--
-**NDERXZ/NDERXZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    Theme: Persona 5 (Phantom Thieves)
+    Customized for: Chaidar (NDERXZ / ENDERTURU)
+    Original template credit: https://github.com/Glauedson
 -->
+
+<!-- Banner  -->
+<a href="https://github.com/NDERXZ">
+  <img src="assets/images/Banner Persona.svg" alt="Banner" style="width:100%; height:auto"/>
+</a>
+
+<div align="center">
+
+  <a href="https://github.com/NDERXZ">
+    <img width="160px" 
+         src="https://komarev.com/ghpvc/?username=NDERXZ&label=Profile%20Views&color=000000&labelColor=FF1001&style=for-the-badge" 
+         alt="Profile Views" /> 
+  </a>
+  <a href="https://github.com/NDERXZ/Ender-Verstappen">
+    <img width="120px" 
+        alt="Stars" 
+        title="Stars Repository" 
+        src="https://img.shields.io/github/stars/NDERXZ/Ender-Verstappen?color=000000&labelColor=FF1001&logoColor=ffffff&label=Stars&style=for-the-badge&logo=star" /> 
+  </a>
+  <a href="https://github.com/NDERXZ/Ender-Verstappen/network/members">
+    <img width="115px" 
+        alt="Forks" 
+        title="Forks Repository" 
+        src="https://img.shields.io/github/forks/NDERXZ/Ender-Verstappen?color=000000&labelColor=FF1001&logoColor=ffffff&label=Forks&style=for-the-badge&logo=fork" /> 
+  </a>
+  <a href="https://github.com/NDERXZ?tab=followers">
+    <img width="145px" 
+        alt="Followers" 
+        title="Github Followers" 
+        src="https://img.shields.io/github/followers/NDERXZ?color=000000&labelColor=FF1001&style=for-the-badge&logo=github&label=Followers&logoColor=ffffff" />
+  </a>
+</div>
+
+</br>
+
+<!-- Who am i? -->
+<img src="https://media.tenor.com/36y7ERdf9rsAAAAj/persona-5.gif" width="390" align="left">
+<div align="center">
+
+**Who Am I?**
+</div>
+
+<div align="justify">
+
+I am **Chaidar** (also known as **ENDERTURU** / **NDERXZ**), a passionate **Full-Stack Developer** focusing on **Minecraft Server Development**, **AI Integrations**, and modern **Web Development**.
+
+My journey is fueled by **curiosity**, **engineering challenges**, and a drive to craft **high-performance systems** — from highly customized game-server infrastructure to scalable, sleek full-stack web applications. I bridge backend logic with modern, responsive front-end design to deliver intuitive and memorable user experiences.
+
+Always building, experimenting with cutting-edge tools, and pushing boundaries to bring creative ideas to life.
+
+</div>
+
+</br>
+</br>
+
+<!-- badges / socials -->
+<div align="center">
+  <strong>Connect with Me</strong>
+  </br>
+
+  <!-- Portfolio -->
+  <a href="https://portofolio-chaidar.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF1001?style=for-the-badge&logo=vercel&logoColor=white" 
+          alt="Portfolio"
+          title="My Portfolio"/>
+  </a>
+  <!-- GMail  -->
+  <a href="mailto:chaidar.skz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-FF1001?style=for-the-badge&logo=gmail&logoColor=white" 
+          alt="E-mail"
+          title="My E-mail"/>
+  </a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/enderturu" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-enderturu-FF1001?style=for-the-badge&logo=discord&logoColor=white" 
+          alt="Discord"
+          title="My Discord"/>
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/62895327468806" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0895327468806-FF1001?style=for-the-badge&logo=whatsapp&logoColor=white" 
+          alt="WhatsApp"
+          title="My WhatsApp"/>
+  </a>
+
+</div>
+</br>
+
+<img src="./assets/icons/knife.png" width="106px" align="right">
+
+> [!Caution]
+>
+> *"I am the bone of my sword. Steel is my body and fire is my blood."*
+>
+> Code is never finished, it only gets **better**.
+>
+> What you see here is forged with **passion**, **curiosity**, and **persistence**.
+
+</br>
+
+<!-- My contributions title -->
+<div align="center">
+<img src="./assets/images/Contributions.svg" width="50%">
+</br>
+</br>
+</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NDERXZ&custom_title=My%20Contributions&hide_border=false&theme=high-contrast&border_color=FF1001&bg_color=transparent&radius=16&area_color=FF1001&area=true&point=ffffff&line=FF1001&days=10&text_color=ffffff&title_color=ffffff&include_all_commits=true&count_private=true)](https://github.com/NDERXZ)
+
+<table align="center">
+  <tr>
+    <!-- Skills Left -->
+    <td valign="top" width="45%">
+      <img src="./assets/images/Stack.svg">
+      </br>
+      </br>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,php,java" /><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,tailwind" /><br>
+      <img src="https://skillicons.dev/icons?i=mysql,docker,git,figma,vscode" /><br>
+    </td>
+    <!-- Highlight Project & Streak Right -->
+    <td valign="top" width="55%">
+      <a href="https://github.com/NDERXZ/Ender-Verstappen" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NDERXZ&repo=Ender-Verstappen&theme=dark&bg_color=FF1001&title_color=ffffff&text_color=000000&hide_border=true&description_lines_count=4&icon_color=ffffff" />
+      </a>
+
+      [![GitHub Streak](https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF)](https://git.io/streak-stats)
+    </td>
+  </tr>
+</table>
