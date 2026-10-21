@@ -91,15 +91,10 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
 </div>
 </br>
 
-<img src="./assets/icons/knife.png" width="106px" align="right">
-
-> [!Caution]
->
+> [!NOTE]
 > *"I am the bone of my sword. Steel is my body and fire is my blood."*
 >
-> Code is never finished, it only gets **better**.
->
-> What you see here is forged with **passion**, **curiosity**, and **persistence**.
+> Code is never finished, it only gets **better**. Forged with **passion**, **curiosity**, and **persistence**.
 
 </br>
 
