@@ -12,24 +12,24 @@
 <div align="center">
 
   <a href="https://github.com/NDERXZ">
-    <img width="160px" 
-         src="https://komarev.com/ghpvc/?username=NDERXZ&label=Profile%20Views&color=9142ff&style=for-the-badge" 
+    <img width="160" 
+         src="https://hits.sh/github.com/NDERXZ.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=9142ff" 
          alt="Profile Views" /> 
   </a>
   <a href="https://github.com/NDERXZ/Ender-Verstappen">
-    <img width="120px" 
+    <img width="120" 
         alt="Stars" 
         title="Stars Repository" 
         src="https://img.shields.io/github/stars/NDERXZ/Ender-Verstappen?color=000000&labelColor=9142ff&logoColor=ffffff&label=Stars&style=for-the-badge&logo=star" /> 
   </a>
   <a href="https://github.com/NDERXZ/Ender-Verstappen/network/members">
-    <img width="115px" 
+    <img width="115" 
         alt="Forks" 
         title="Forks Repository" 
         src="https://img.shields.io/github/forks/NDERXZ/Ender-Verstappen?color=000000&labelColor=9142ff&logoColor=ffffff&label=Forks&style=for-the-badge&logo=fork" /> 
   </a>
   <a href="https://github.com/NDERXZ?tab=followers">
-    <img width="145px" 
+    <img width="145" 
         alt="Followers" 
         title="Github Followers" 
         src="https://img.shields.io/github/followers/NDERXZ?color=000000&labelColor=9142ff&style=for-the-badge&logo=github&label=Followers&logoColor=ffffff" />
