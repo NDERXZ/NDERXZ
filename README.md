@@ -128,7 +128,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
       </br>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" /><br>
       <img src="https://skillicons.dev/icons?i=java,react,nextjs,nodejs,laravel,tailwind" /><br>
-      <img src="https://skillicons.dev/icons?i=mysql,docker,git,figma,vscode" /><br>
+      <img src="assets/images/tools-stack.svg" /><br>
       <img src="assets/images/os-stack.svg" /><br>
     </td>
     <!-- Highlight Project & Streak Right -->
