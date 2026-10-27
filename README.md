@@ -144,3 +144,12 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
     </td>
   </tr>
 </table>
+
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://smkn2depoksleman.sch.id/" target="_blank">
+    <img src="assets/images/stembayo.gif" width="420" alt="STEMBAYO - SMK Negeri 2 Depok Sleman" />
+  </a>
+</div>
