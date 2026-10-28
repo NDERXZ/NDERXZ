@@ -138,7 +138,7 @@ Always building, experimenting with cutting-edge tools, and pushing boundaries t
       </a>
       <br/>
       <br/>
-      <a href="https://portofolio-chaidar.vercel.app" target="_blank">
+      <a href="https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=9142ff&fire=9142ff&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9142ff&sideLabels=9142ff&dates=FFFFFF" target="_blank">
         <img src="https://streak-stats.demolab.com?user=NDERXZ&theme=dark&background=0D0D0D&ring=9142ff&fire=9142ff&currStreakNum=FFFFFF&card_width=401&sideNums=FFFFFF&currStreakLabel=9142ff&sideLabels=9142ff&dates=FFFFFF" alt="GitHub Streak" />
       </a>
     </td>
